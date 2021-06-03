@@ -1,0 +1,2 @@
+rootProject.name = "ItemsDatabase"
+include ':app'
